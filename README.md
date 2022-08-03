@@ -5,7 +5,7 @@
 
 ## This is a Checklist App built using React.js and styled using React-Bootstrap.
 
-You can view a live demo of the project here:
+You can view a live demo of the project here: https://listify-rho.vercel.app/
 
 ## 😃 Features:
 
